@@ -1,4 +1,4 @@
-"","ID","M.F","Hand","Age","Educ","SES","MMSE","CDR","eTIV","nWBV","ASF","Delay","RightHippoVol","LeftHippoVol","TrainData","Dementia"
+    "","ID","M.F","Hand","Age","Educ","SES","MMSE","CDR","eTIV","nWBV","ASF","Delay","RightHippoVol","LeftHippoVol","TrainData","Dementia"
 "1","OAS1_0002_MR1","F","R",55,4,1,29,0,1147,0.81,1.531,"N/A",4230,3807,0,0
 "2","OAS1_0003_MR1","F","R",73,4,3,27,0.5,1454,0.708,1.207,"N/A",2896,2801,1,1
 "7","OAS1_0010_MR1","M","R",74,5,2,30,0,1636,0.689,1.073,"N/A",2832,2578,0,0
